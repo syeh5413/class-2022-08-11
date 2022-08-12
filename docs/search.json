@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-08-11T20:00:01-05:00"
+    },
+    {
+      "path": "county_analysis.html",
+      "title": "County Analysis",
+      "author": [],
+      "date": "2022-08-11",
+      "contents": "\n\n\nread_rds(\"plot_2.rds\")\n\n\n\n\n\n\n",
+      "last_modified": "2022-08-11T20:00:04-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Economic Connectedness",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n\n\n\n",
+      "last_modified": "2022-08-11T20:00:04-05:00"
+    }
+  ],
+  "collections": []
+}
